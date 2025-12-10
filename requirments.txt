@@ -1,0 +1,8 @@
+```text
+streamlit
+numpy
+pandas
+scikit-learn
+```
+
+To make this file on your local computer, simply open a plain text editor, type these four lines exactly as shown above, and then save the file as `requirements.txt` in the same folder where your `app.py` and `heart_disease_model.sav` are located.																																																																											 																				
